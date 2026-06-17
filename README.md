@@ -26,15 +26,6 @@ Your mission (should you choose to accept it):
 
 ---
 
-## 🎨 **Visual Map of the Madness**
-
-![Hacker in Red](https://picsum.photos/id/1015/600/400)  
-*(Replace with your actual screenshots or assets)*
-
-![Neon Puzzle Pieces](https://picsum.photos/id/201/600/400)
-
----
-
 ## 🛠️ **Tools You'll Probably Try**
 
 ```bash
