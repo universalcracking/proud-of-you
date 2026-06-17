@@ -25,6 +25,7 @@ Your mission (should you choose to accept it):
 **Good luck. The logic doesn't break easily.**
 
 ---
+Hint :(u will find in build somthing that u will need to Understand when it get used)
 
 ## 🛠️ **Tools You'll Probably Try**
 
