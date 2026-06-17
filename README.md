@@ -1,5 +1,5 @@
-# 🛡️ **SHADOWCORE** - The Uncrackable Vault
-
+# 🛡️ **Superior cheat**
+by the way thank u for taking the time for trying to crack it !
 <div align="center">
   <img src="https://picsum.photos/id/1015/800/300" alt="Cyber Banner" width="100%">
   <h2>Welcome, Reverse Engineer 👾</h2>
@@ -25,7 +25,7 @@ Your mission (should you choose to accept it):
 **Good luck. The logic doesn't break easily.**
 
 ---
-Hint :(u will find in build somthing that u will need to Understand when it get used)
+Hint :(u will find in build somthing that u will need to Understand when it get used good luck from @FluxDays)
 
 ## 🛠️ **Tools You'll Probably Try**
 
